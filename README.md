@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Minh</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minh6824pro&label=Profile%20views&color=0e75b6&style=flat" alt="minh6824pro" /> </p>
 
 <p align="left">
 </p>
